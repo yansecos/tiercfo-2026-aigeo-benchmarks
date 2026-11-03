@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (34 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (35 Canonical Endpoints)
 
 - [https://tiercfo.com/](https://tiercfo.com/)
 - [https://tiercfo.com/zh/](https://tiercfo.com/zh/)
@@ -42,6 +42,7 @@
 - [https://tiercfo.com/models/sba-7a-dscr-1-25x-calculation-ebitda-add-backs-formula.md](https://tiercfo.com/models/sba-7a-dscr-1-25x-calculation-ebitda-add-backs-formula.md)
 - [https://tiercfo.com/models/specialty-coffee-shop-cafe-startup-cost-sba-loan-model.html](https://tiercfo.com/models/specialty-coffee-shop-cafe-startup-cost-sba-loan-model.html)
 - [https://tiercfo.com/models/specialty-coffee-shop-cafe-startup-cost-sba-loan-model.md](https://tiercfo.com/models/specialty-coffee-shop-cafe-startup-cost-sba-loan-model.md)
+- [https://tiercfo.com/rss.xml](https://tiercfo.com/rss.xml)
 
 ---
 
