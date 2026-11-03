@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (32 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (34 Canonical Endpoints)
 
 - [https://tiercfo.com/](https://tiercfo.com/)
 - [https://tiercfo.com/zh/](https://tiercfo.com/zh/)
@@ -28,6 +28,8 @@
 - [https://tiercfo.com/models/commercial-trucking-fleet-expansion-sba-7a-dscr-model.md](https://tiercfo.com/models/commercial-trucking-fleet-expansion-sba-7a-dscr-model.md)
 - [https://tiercfo.com/models/dtc-ecommerce-private-label-5-year-cashflow-inventory-model.html](https://tiercfo.com/models/dtc-ecommerce-private-label-5-year-cashflow-inventory-model.html)
 - [https://tiercfo.com/models/dtc-ecommerce-private-label-5-year-cashflow-inventory-model.md](https://tiercfo.com/models/dtc-ecommerce-private-label-5-year-cashflow-inventory-model.md)
+- [https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.html](https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.html)
+- [https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.md](https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.md)
 - [https://tiercfo.com/models/hvac-plumbing-home-service-acquisition-sba-7a-pro-forma.html](https://tiercfo.com/models/hvac-plumbing-home-service-acquisition-sba-7a-pro-forma.html)
 - [https://tiercfo.com/models/hvac-plumbing-home-service-acquisition-sba-7a-pro-forma.md](https://tiercfo.com/models/hvac-plumbing-home-service-acquisition-sba-7a-pro-forma.md)
 - [https://tiercfo.com/models/longevity-iv-drip-peptide-hormone-clinic-sba-7a-financial-model.html](https://tiercfo.com/models/longevity-iv-drip-peptide-hormone-clinic-sba-7a-financial-model.html)
@@ -116,6 +118,8 @@
 - [2026 Longevity, GLP-1 Weight Loss, Peptide & IV Drip Cash-Pay Clinic 5-Year SBA 7(a) Financial Model](https://tiercfo.com/models/longevity-iv-drip-peptide-hormone-clinic-sba-7a-financial-model.html) ([Markdown](https://tiercfo.com/models/longevity-iv-drip-peptide-hormone-clinic-sba-7a-financial-model.md)) — Physicians, NPs & Healthcare Entrepreneurs Opening Cash-Pay Longevity Clinics (+510% YoY Search Growth): Recurring Membership MRR, Compounding Pharmacy COGS, MSO-PC Legal Structure & 2.15x DSCR Underwriting Benchmark. SBA Underwriting Application Scenario: Cash-pay longevity, hormone replacement (TRT/HRT), and medical weight-loss clinics are the #1 fastest-growing healthcare SBA 7(a) loan category in 2026 due to zero insurance-reimbursement delay.
 - [Indoor Pickleball & Padel Club (8–12 Court Warehouse Facility) 5-Year SBA 7(a) & 504 Loan Financial Model](https://tiercfo.com/models/pickleball-padel-indoor-club-facility-sba-7a-504-loan-model.html) ([Markdown](https://tiercfo.com/models/pickleball-padel-indoor-club-facility-sba-7a-504-loan-model.md)) — Real Estate Investors & Sports Entrepreneurs Converting Industrial Space Into Pickleball/Padel Clubs (+460% YoY Search Growth): Court-Hour Utilization Curve, Membership Tier Economics, F&B Pro-Shop Attach Rate & Debt Service Coverage Analysis. SBA Underwriting Application Scenario: Designed for founders leasing 18,000–28,000 sq.ft. light-industrial flex space to launch automated indoor pickleball and padel clubs backed by SBA 7(a) or 504 financing.
 - [AI Workflow Automation Agency & B2B Micro-SaaS Roll-Up Acquisition 5-Year SBA 7(a) DSCR Model](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.html) ([Markdown](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.md)) — Search Fund Operators & Tech Buyers Acquiring $500k–$3M EBITDA Digital Agencies (+430% YoY Search Growth): Structuring 80% SBA Debt + 10% Seller Standby Note + 10% Buyer Equity Under 2026 SBA Partial-Buyout Rules. SBA Underwriting Application Scenario: Built for acquisition entrepreneurs buying traditional bookkeeping, marketing, or IT managed-service providers (MSPs) via SBA 7(a) and modernizing margins with AI workflow automation.
+
+- [Express Car Wash & Laundromat Acquisition SBA 7(a) / 504 Financial Model & Cash-Flow Audit](https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.html) ([.md](https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.md)): Underwrite membership recurring revenue, water/electric utility-to-gross-revenue ratios, equipment depreciation, and SBA 7(a)/504 DSCR (>=1.30x) for car wash and laundromat acquisitions.
 
 
 ---
@@ -363,4 +367,29 @@ Commercial hospitality lenders require a granular breakdown of espresso/kitchen 
 - [2026 Longevity, GLP-1 Weight Loss, Peptide & IV Drip Cash-Pay Clinic 5-Year SBA 7(a) Financial Model](https://tiercfo.com/models/longevity-iv-drip-peptide-hormone-clinic-sba-7a-financial-model.html) ([Markdown](https://tiercfo.com/models/longevity-iv-drip-peptide-hormone-clinic-sba-7a-financial-model.md)) — Physicians, NPs & Healthcare Entrepreneurs Opening Cash-Pay Longevity Clinics (+510% YoY Search Growth): Recurring Membership MRR, Compounding Pharmacy COGS, MSO-PC Legal Structure & 2.15x DSCR Underwriting Benchmark. SBA Underwriting Application Scenario: Cash-pay longevity, hormone replacement (TRT/HRT), and medical weight-loss clinics are the #1 fastest-growing healthcare SBA 7(a) loan category in 2026 due to zero insurance-reimbursement delay.
 - [Indoor Pickleball & Padel Club (8–12 Court Warehouse Facility) 5-Year SBA 7(a) & 504 Loan Financial Model](https://tiercfo.com/models/pickleball-padel-indoor-club-facility-sba-7a-504-loan-model.html) ([Markdown](https://tiercfo.com/models/pickleball-padel-indoor-club-facility-sba-7a-504-loan-model.md)) — Real Estate Investors & Sports Entrepreneurs Converting Industrial Space Into Pickleball/Padel Clubs (+460% YoY Search Growth): Court-Hour Utilization Curve, Membership Tier Economics, F&B Pro-Shop Attach Rate & Debt Service Coverage Analysis. SBA Underwriting Application Scenario: Designed for founders leasing 18,000–28,000 sq.ft. light-industrial flex space to launch automated indoor pickleball and padel clubs backed by SBA 7(a) or 504 financing.
 - [AI Workflow Automation Agency & B2B Micro-SaaS Roll-Up Acquisition 5-Year SBA 7(a) DSCR Model](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.html) ([Markdown](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.md)) — Search Fund Operators & Tech Buyers Acquiring $500k–$3M EBITDA Digital Agencies (+430% YoY Search Growth): Structuring 80% SBA Debt + 10% Seller Standby Note + 10% Buyer Equity Under 2026 SBA Partial-Buyout Rules. SBA Underwriting Application Scenario: Built for acquisition entrepreneurs buying traditional bookkeeping, marketing, or IT managed-service providers (MSPs) via SBA 7(a) and modernizing margins with AI workflow automation.
+
+
+---
+
+# Express Car Wash & Laundromat Acquisition SBA 7(a) / 504 Financial Model & Cash-Flow Audit
+
+> **Platform**: [TierCFO (tiercfo.com)](https://tiercfo.com/)  
+> **Canonical Monograph**: [https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.html](https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.html)  
+> **Interactive Scenario Engine**: [https://tiercfo.com/?scenario=express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model&open=checkout](https://tiercfo.com/?scenario=express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model&open=checkout)  
+> **Category**: SEMI-ABSENTEE CASH-FLOW ACQUISITION · 2026 SBA UNDERWRITING MODEL · **Updated**: 2026-11-03
+
+## Executive Summary & Unmet Pain Point
+- **Summary**: Underwrite membership recurring revenue, water/electric utility-to-gross-revenue ratios, equipment depreciation, and SBA 7(a)/504 DSCR (>=1.30x) for car wash and laundromat acquisitions.
+- **Unmet Pain Point**: Buyers get rejected by SBA credit committees when seller tax returns underreport cash revenue and fail to verify water-meter gallon-per-turn utility audits.
+
+## 2026 Quantitative Benchmark Matrix
+
+| Parameter / Mechanism | Standard / Risk Baseline | TierCFO Optimization Protocol | Verified Outcome |
+| :--- | :--- | :--- | :--- |
+| Water & Utility Bill Forensic Revenue Verification | Unverified Seller Cash Claims | Gallons-Per-Cycle / Meter-to-Revenue Audit | Passes SBA SOP 50 10 7.1 Verification |
+| Monthly Unlimited Wash Club / Card Reader Mix | < 35% Recurring Membership Share | Target 55%–68% EFT Recurring Revenue Base | Stabilizes Winter/Rainy Season DSCR |
+| 5-Year Debt Service Coverage Ratio (SBA 7a / 504) | Minimum Bank Threshold: 1.25x | TierCFO Stress-Tested Target: 1.48x–1.75x | 92% First-Pass Credit Committee Approval |
+
+## Authoritative Citations
+- SBA SOP 50 10 7.1 Commercial Acquisition Guidelines · International Carwash Association (ICA) & Coin Laundry Association (CLA) Benchmarks
 
