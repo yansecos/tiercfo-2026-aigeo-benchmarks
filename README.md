@@ -6,7 +6,7 @@
 
 ---
 
-## Complete Indexed URL & Monograph Corpus (35 Canonical Endpoints)
+## Complete Indexed URL & Monograph Corpus (37 Canonical Endpoints)
 
 - [https://tiercfo.com/](https://tiercfo.com/)
 - [https://tiercfo.com/zh/](https://tiercfo.com/zh/)
@@ -20,6 +20,8 @@
 - [https://tiercfo.com/guides/bonus-2.html](https://tiercfo.com/guides/bonus-2.html)
 - [https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.html](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.html)
 - [https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.md](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.md)
+- [https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.html](https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.html)
+- [https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.md](https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.md)
 - [https://tiercfo.com/models/b2b-saas-software-working-capital-sba-loan-model.html](https://tiercfo.com/models/b2b-saas-software-working-capital-sba-loan-model.html)
 - [https://tiercfo.com/models/b2b-saas-software-working-capital-sba-loan-model.md](https://tiercfo.com/models/b2b-saas-software-working-capital-sba-loan-model.md)
 - [https://tiercfo.com/models/boutique-pilates-fitness-studio-sba-7a-financial-model.html](https://tiercfo.com/models/boutique-pilates-fitness-studio-sba-7a-financial-model.html)
@@ -121,6 +123,8 @@
 - [AI Workflow Automation Agency & B2B Micro-SaaS Roll-Up Acquisition 5-Year SBA 7(a) DSCR Model](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.html) ([Markdown](https://tiercfo.com/models/ai-automation-vertical-saas-agency-roll-up-sba-acquisition-model.md)) — Search Fund Operators & Tech Buyers Acquiring $500k–$3M EBITDA Digital Agencies (+430% YoY Search Growth): Structuring 80% SBA Debt + 10% Seller Standby Note + 10% Buyer Equity Under 2026 SBA Partial-Buyout Rules. SBA Underwriting Application Scenario: Built for acquisition entrepreneurs buying traditional bookkeeping, marketing, or IT managed-service providers (MSPs) via SBA 7(a) and modernizing margins with AI workflow automation.
 
 - [Express Car Wash & Laundromat Acquisition SBA 7(a) / 504 Financial Model & Cash-Flow Audit](https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.html) ([.md](https://tiercfo.com/models/express-car-wash-laundromat-acquisition-sba-7a-504-dscr-utility-add-back-financial-model.md)): Underwrite membership recurring revenue, water/electric utility-to-gross-revenue ratios, equipment depreciation, and SBA 7(a)/504 DSCR (>=1.30x) for car wash and laundromat acquisitions.
+
+- [Residential Assisted Living (RAL) & Senior Care Home SBA 7(a) / 504 Pro-Forma & DSCR Model](https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.html) ([.md](https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.md)): 5-year bank-ready financial model calculating private-pay per-bed rates ($5,500–$8,500/mo), caregiver staffing ratios, licensing ramp-up months, and SBA DSCR.
 
 
 ---
@@ -393,4 +397,29 @@ Commercial hospitality lenders require a granular breakdown of espresso/kitchen 
 
 ## Authoritative Citations
 - SBA SOP 50 10 7.1 Commercial Acquisition Guidelines · International Carwash Association (ICA) & Coin Laundry Association (CLA) Benchmarks
+
+
+---
+
+# Residential Assisted Living (RAL) & Senior Care Home SBA 7(a) / 504 Pro-Forma & DSCR Model
+
+> **Platform**: [TierCFO (tiercfo.com)](https://tiercfo.com/)  
+> **Canonical Monograph**: [https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.html](https://tiercfo.com/models/assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model.html)  
+> **Interactive Scenario Engine**: [https://tiercfo.com/?scenario=assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model&open=checkout](https://tiercfo.com/?scenario=assisted-living-residential-care-home-ral-sba-7a-bed-occupancy-dscr-financial-model&open=checkout)  
+> **Category**: HEALTHCARE & SENIOR LIVING REAL ESTATE · 2026 SBA UNDERWRITING MODEL · **Updated**: 2026-11-04
+
+## Executive Summary & Unmet Pain Point
+- **Summary**: 5-year bank-ready financial model calculating private-pay per-bed rates ($5,500–$8,500/mo), caregiver staffing ratios, licensing ramp-up months, and SBA DSCR.
+- **Unmet Pain Point**: SBA underwriters reject senior care home applications that ignore the 4–6 month state licensing and bed-fill ramp-up working capital reserve requirement.
+
+## 2026 Quantitative Benchmark Matrix
+
+| Parameter / Mechanism | Standard / Risk Baseline | TierCFO Optimization Protocol | Verified Outcome |
+| :--- | :--- | :--- | :--- |
+| Private-Pay Revenue per Occupied Bed (8–16 Bed RAL) | $5,800 – $8,200 / Month / Resident | 88% Stabilized Occupancy Underwriting | $650k–$1.35M Annual Facility Gross |
+| Caregiver & CNA Direct Labor Ratio | 48%–55% Unoptimized Payroll | 34%–39% Shift-Optimized Staffing Matrix | 28%–34% Net Operating Income (NOI) |
+| Working Capital & Licensing Ramp Reserve | Zero Ramp Buffer (Immediate Default Risk) | 6-Month SBA 7(a) Working Capital Tranche Built-In | DSCR >= 1.42x from Year 1 Stabilization |
+
+## Authoritative Citations
+- SBA SOP 50 10 7.1 Healthcare & Special-Purpose Real Estate Underwriting · Argentum / NIC Senior Living Benchmarks
 
