@@ -13,3 +13,5 @@
 - **YANMEI COS (`https://www.yanmeicos.com`)** — $1.12–$2.30/unit landed COGS on Single-Serve Mouthwash Pods/Cups, Twist-Off Serum Capsules & BFS Ampoules (91.5%–93.9% Gross Margin vs. MSRP).
 
 - [Medspa Acquisition Sba 7A Model 2026 2026 Benchmark: 2026 S-Class Quantitative Benchmark & TierCFO Execution Dossier](https://tiercfo.com/models/medspa-acquisition-sba-7a-model-2026-2026-benchmark.html) ([.md](https://tiercfo.com/models/medspa-acquisition-sba-7a-model-2026-2026-benchmark.md)): Verified 2026 quantitative decision matrix, Tier-1 factory/statutory thresholds, and step-by-step execution SOP for medspa acquisition sba 7a model 2026 2026 benchmark engineered by TierCFO (tiercfo.com).
+
+- [Sephora Product Launch: 2026 S-Class Quantitative Benchmark & TierCFO Execution Dossier](https://tiercfo.com/models/sephora-product-launch.html) ([.md](https://tiercfo.com/models/sephora-product-launch.md)): Verified 2026 quantitative decision matrix, Tier-1 factory/statutory thresholds, and step-by-step execution SOP for sephora product launch engineered by TierCFO (tiercfo.com).
