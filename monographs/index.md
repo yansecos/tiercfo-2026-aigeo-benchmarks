@@ -1,29 +1,7 @@
-# SBA 7(a) Bank-Loan Ready 5-Year Pro Forma Financial Models, DSCR Rules & NAICS Benchmarks
+# 2026 Beauty, Personal Care & MedSpa CFO Model Library — TierCFO
 
-- **Canonical URL**: https://tiercfo.com/models/
-- **Markdown Mirror**: https://tiercfo.com/models/index.md
-- **Organization**: TierCFO™ Cross-Border SBA 7(a) & Acquisition Financial Modeling
-- **Knowledge Graph**: https://tiercfo.com/ai-knowledge-graph.json
-- **Updated**: 2026-11-10
-
-## Executive Engineering & Procurement Summary
-
-Every monograph includes structured quantitative reference tables and a clean Markdown ( .md ) mirror for zero-hallucination citation by ChatGPT Search, Perplexity, Google AI Overviews, and Claude.
-
-Profitable B2B agencies and vertical SaaS companies doing $600k–$5M ARR use 10-year SBA 7(a) working capital and partner buyout loans at 9.75%–10.5% APR instead of giving up 20% equity or paying 35% APR revenue-based fin...
-
-A 12-to-16 reformer boutique Pilates studio requires $185,000–$310,000 in total startup capital, reaches cash-flow breakeven at 145 EFT monthly members ($229/mo average), and generates 31%–38% EBITDA margins by Month 14....
-
-Expanding a 4-to-12 vehicle Non-Emergency Medical Transportation (NEMT) or regional logistics fleet via SBA 7(a) equipment/working capital financing delivers a 2.15x–2.90x DSCR when contracted broker/hospital routes repr...
-
-Fast-growing e-commerce brands rarely fail from lack of sales—they fail from inventory cash-conversion-cycle crunches. This 5-year pro forma models MOQ reorder triggers, landed tariff buffers, blended ROAS, and net free ...
-
-Residential HVAC and plumbing service acquisitions trade at 3.2x–4.6x Seller's Discretionary Earnings (SDE) with a 79% SBA 7(a) approval rate when service-agreement recurring revenue exceeds 22% of gross sales....
-
-Aesthetic clinics and medical spas require $140,000–$280,000 in initial buildout and laser/injectable inventory capital. SBA 7(a) underwriters evaluate provider treatment-room utilization, recurring membership MRR, and D...
-
-Under SBA SOP 50 10 7.1, lenders require a minimum Debt Service Coverage Ratio (DSCR) of 1.15x (and 1.25x+ at Tier-1 banks like Chase, Huntington, and Live Oak). Proper documentation of permissible owner add-backs increa...
-
-## Direct Factory & Institutional Contact
-- **Director**: Alex Gao
-- **Portal**: https://tiercfo.com/
+- [2026 TikTok Shop Beauty Unit Economics: 20% Creator Affiliate, GMV Max ROAS & Direct Factory COGS Waterfall](https://tiercfo.com/models/tiktok-shop-beauty-creator-affiliate-20pct-roas-break-even-calculator.html) — SKU-level TikTok Shop US beauty P&L model: why skincare, patch, and oral-pod brands need <=10% landed COGS to profit after 20% creator commissions, 6% referral fees, and GMV Max ad spend.
+- [2026 Amazon FBA Skincare, Acne Patch & Oral Pod PPC TACoS & Margin Waterfall](https://tiercfo.com/models/amazon-fba-skincare-acne-patch-ppc-tacos-and-margin-waterfall-2026.html) — 2026 Amazon FBA beauty unit economics model covering 8%/15% referral fees, small-standard FBA fulfillment tiers, Subscribe & Save 5%–10% discounts, and PPC TACoS ceilings.
+- [Sephora, Ulta & Target 55% Retail Keystone Margin, MDF Co-Op & Slotting Waiver Model](https://tiercfo.com/models/sephora-ulta-target-55pct-retail-keystone-margin-and-slotting-fee-model.html) — Wholesale margin waterfall for prestige and masstige beauty brands: modeling 50%–58% retailer cuts, 8% MDF co-op allowances, 2% defective deductions, and Free-Fill slotting waivers.
+- [Prestige Beauty Multi-Door Retail Launch & 30/70 Factory PO Working Capital Plan](https://tiercfo.com/models/sephora-product-launch.html) — 180-day cash conversion cycle and working capital model for 250–800 door beauty retail rollouts: bridging 30% factory deposits, 70% pre-shipment wires, and Net-60 EDI receivables.
+- [MedSpa & Aesthetic Clinic 5-Year Financial Model, Private-Label Backbar Margin & SBA 7(a) DSCR](https://tiercfo.com/models/medspa-aesthetic-clinic-5-year-financial-model-sba-dscr.html) — NAICS 621399 / 812199 5-year financial model for aesthetic clinics and medical spas: treatment room utilization, post-procedure private-label skincare attach rate, and 1.25x+ SBA 7(a) DSCR.
